@@ -1,5 +1,5 @@
-# EF7-USE
-Exploring what Entity Framework 7 can do for USE
+# EF7ConsoleApp
+Exploring .Net on Linux with the Entity Framework
 
 ## Installing .NET tools on Linux
 http://docs.asp.net/en/latest/getting-started/installing-on-linux.html
